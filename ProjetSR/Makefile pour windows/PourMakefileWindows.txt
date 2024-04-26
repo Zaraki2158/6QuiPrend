@@ -1,6 +1,0 @@
-Pour utiliser le makefile sous windows, il faut mettre le fichier makefile, a la racine du projet.
-installer MinGW, une fois installer aller dans le dossier MinGW dans bin et rechercher make, renommer ce fichier en make (il s'appelle minGW-make32)
-Ensuite taper dans la barre de recherhce windows PATH, ensuite ouvrir les variables d environnement et dans PATH ajouter le chemin du fichier make que vous avez renommé qui devrait etre c:/MinGW/bin
-
-Il ne reste plus qu'a ouvrir le terminal depuis la racine du projet et faire make
-cela devrait creer un fichier executable 6quiprend.exe
